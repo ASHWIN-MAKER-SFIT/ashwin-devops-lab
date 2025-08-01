@@ -1,1 +1,0 @@
-# ashwin-devops-lab
